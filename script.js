@@ -1,1 +1,1 @@
-getSelection 
+console.log("hello world");
